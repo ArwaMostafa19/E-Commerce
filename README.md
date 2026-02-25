@@ -5,11 +5,11 @@ A sophisticated, framework-less e-commerce engine engineered with **Pure Vanilla
 ---
 
 ##  Key Features
-* ** Dynamic UI Construction:** 100% of the interface is generated programmatically via JavaScript for optimized performance.
-* ** Advanced Auth System:** Secure Sign-In and Sign-Up flows with real-time validation and persistent user sessions.
-* ** Reactive Shopping Cart:** A fully functional cart system with live quantity updates, persistent state, and total calculations.
-* ** Fluid User Journey:** Seamless transitions from product discovery to a dedicated "Success-Verify" checkout workflow.
-* ** Modern Design Language:** A premium, responsive UI featuring glassmorphism effects, custom animations, and CSS-in-JS styling.
+* Dynamic UI Construction: 100% of the interface is generated programmatically via JavaScript for optimized performance.
+* Advanced Auth System: Secure Sign-In and Sign-Up flows with real-time validation and persistent user sessions.
+* Reactive Shopping Cart: A fully functional cart system with live quantity updates, persistent state, and total calculations.
+* Fluid User Journey: Seamless transitions from product discovery to a dedicated "Success-Verify" checkout workflow.
+* Modern Design Language: A premium, responsive UI featuring glassmorphism effects, custom animations, and CSS-in-JS styling.
 
 ---
 
