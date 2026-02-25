@@ -26,7 +26,3 @@ A sophisticated, framework-less e-commerce engine engineered with **Pure Vanilla
 * `cartItems.js` — Order management and checkout validation logic.
 * `signIn.js` / `signUp.js` — Identity management and form security.
 
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/ECOMM-STORE-Platform.git](https://github.com/YourUsername/ECOMM-STORE-Platform.git)
