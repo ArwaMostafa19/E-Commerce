@@ -1,4 +1,4 @@
-# 🛒 ECOMM-STORE: High-Fidelity Vanilla JS Platform
+# ECOMM-STORE: High-Fidelity Vanilla JS E-Commerce
 
 A sophisticated, framework-less e-commerce engine engineered with **Pure Vanilla JavaScript**. This project showcases advanced **DOM manipulation**, state management, and custom UI architecture—built from the ground up without relying on React, Vue, or any external libraries.
 
